@@ -1,1 +1,1 @@
-import * as parse from 'csv-parse';
+import { parse } from 'csv-parse';
