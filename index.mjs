@@ -3,7 +3,7 @@ import * as fs from "fs";
 
 const results = [];
 
-fs.createReadStream("kepler_data.csv")
+fs.createReadStream("kepler_datsa.csv")
     .on("data", data => {
         results.push(data);
     })
