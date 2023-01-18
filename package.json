@@ -1,0 +1,11 @@
+{
+  "name": "planets_project",
+  "version": "1.0.0",
+  "description": "Managing Data From Kepler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Gonçalves",
+  "license": "ISC"
+}
